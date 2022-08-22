@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting!
 
-Template Name: PhotoFolio
-Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template By: Vikram Singh
+Contact: +91 9343673972
+Email: vikram.singh.official@outlook.com
